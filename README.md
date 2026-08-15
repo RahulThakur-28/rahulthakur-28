@@ -1,7 +1,11 @@
-<table>
-<tr>
-<td width="68%" valign="middle">
 
+<tr>
+<td width="68%" valign="middle" align="center">
+<img
+  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/gifs/Hi.gif"
+  width="42"
+  alt="Hi"
+/>
 <h1>👋 Hi, I'm Rahul Thakur</h1>
 
 <h2>Software Developer • Android • Backend • AI • DSA</h2>
@@ -12,23 +16,11 @@
 
 <a href="[YOUR_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=39FF88&labelColor=0D1117&color=161B22" alt="Portfolio" /></a>
 <a href="[YOUR_RESUME_URL]"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=39FF88&labelColor=0D1117&color=161B22" alt="Resume" /></a>
-<a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117&color=161B22" alt="LinkedIn" /></a>
-<a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0D1117&color=161B22" alt="Email" /></a>
+<a href="[https://www.linkedin.com/in/rahul-thakur-39440b30a/]"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117&color=161B22" alt="LinkedIn" /></a>
+<a href="mailto:[rahulthakur28vk@gmail.com]"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0D1117&color=161B22" alt="Email" /></a>
 
-<br /><br />
+<br />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=39FF88&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=00D9FF&labelColor=0D1117" alt="GitHub followers" />
-
-</td>
-
-<td width="32%" align="center" valign="middle">
-
-<img src="./assets/profile.png" alt="Rahul Thakur" width="260" />
-
-</td>
-</tr>
-</table>
 
 <br />
 
@@ -49,9 +41,9 @@
 <h3>🎯 Targeting SDE / Android Developer roles</h3>
 
 <br />
+
 <p align="center">
 
-<!-- Android & Mobile -->
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 <img src="https://img.shields.io/badge/Kotlin-2.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
 <img src="https://img.shields.io/badge/Jetpack_Compose-Material_3-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
@@ -59,38 +51,16 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-
-<!-- Backend -->
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/REST_APIs-161B22?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
 <img src="https://img.shields.io/badge/JWT-161B22?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-
-<!-- Programming Languages -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-
-<!-- Web Development -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
-
-<!-- Web / Deployment -->
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-
-<!-- Database -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-
-<!-- Architecture & Android Tools -->
 <img src="https://img.shields.io/badge/MVVM-161B22?style=for-the-badge&logo=android&logoColor=3DDC84" alt="MVVM"/>
 <img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Hilt"/>
-
-<!-- Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
@@ -184,6 +154,29 @@ A dark-themed Snake game built with <strong>HTML • CSS • JavaScript</strong>
 
 </div>
 
+<br />
+
+Generated automatically by the workflow in .github/workflows/snake.yml, which commits the SVG to an output branch. See setup instructions below.
+
+
+<br />
+
+## 🧩 Coding Profiles
+
+<div *align*="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF88" alt="GitHub" /></a>
+<a href="[YOUR_LEETCODE_URL]"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D9FF" alt="LeetCode" /></a>
+<a href="[GFG_URL]"><img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=A78BFA" alt="GeeksforGeeks" /></a>
+<a href="[CODECHEF_URL]"><img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=39FF88" alt="CodeChef" /></a>
+<a href="[HACKERRANK_URL]"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00D9FF" alt="HackerRank" /></a>
+<a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
+
+</div>
+
+Only fill in the profiles you actually use — remove any row/badge you don't have.
+
+<br />
 
 ## 🎯 Career Goals
 
@@ -202,27 +195,16 @@ A dark-themed Snake game built with <strong>HTML • CSS • JavaScript</strong>
 <br />
 
 ## 📫 Connect With Me
-<div align="center">
 
-<a href="https://www.linkedin.com/in/rahul-thakur-39440b30/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF88&labelColor=0D1117&color=161B22" alt="LinkedIn" height="48" />
-</a>
+<div *align*="center">
 
-<a href="https://github.com/RahulThakur-28">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117&color=161B22" alt="GitHub" height="48" />
-</a>
-
-<a href="mailto:rahulthakur28vt@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0D1117&color=161B22" alt="Email" height="48" />
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=39FF88&labelColor=0D1117&color=161B22" alt="Portfolio" height="48" />
-</a>
-
-<a href="https://leetcode.com/u/Rahul_Thakur_28_00/">
-  <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D9FF&labelColor=0D1117&color=161B22" alt="LeetCode" height="48" />
-</a>
+<a href="[]"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF88" alt="LinkedIn" /></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub" /></a>
+<a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" /></a>
+<a href="[YOUR_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=39FF88" alt="Portfolio" /></a>
+<a href="[YOUR_LEETCODE_URL]"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D9FF" alt="LeetCode" /></a>
+<a href="[YOUR_INSTAGRAM_URL]"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram" /></a>
+<a href="[YOUR_X_URL]"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=F0F6FC" alt="X / Twitter" /></a>
 
 </div>
 
@@ -234,7 +216,7 @@ A dark-themed Snake game built with <strong>HTML • CSS • JavaScript</strong>
 
 <div *align*="center">
 
-<a href="https://github.com/rahulthakur-28?tab=repositories"><img src="https://img.shields.io/badge/⭐_Star_My_Repositories-161B22?style=for-the-badge&logoColor=39FF88&labelColor=0D1117" alt="Star my repositories" /></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/⭐_Star_My_Repositories-161B22?style=for-the-badge&logoColor=39FF88&labelColor=0D1117" alt="Star my repositories" /></a>
 
 </div>
 
