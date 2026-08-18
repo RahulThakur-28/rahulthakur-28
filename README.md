@@ -6,7 +6,7 @@
   width="42"
   alt="Hi"
 />
-<h1>👋 Hi, I'm Rahul Thakur</h1>
+<h1>👋 Hi , I'm Rahul Thakur</h1>
 
 <h2>Software Developer • Android • Backend • AI • DSA</h2>
 
